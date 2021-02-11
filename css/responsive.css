@@ -1,4 +1,4 @@
-@media (max-width: 760px) {
+@media (max-width: 768px) {
 	.burger-icon {
 		display: block;
 	}
@@ -20,5 +20,40 @@
 	.text-3-wraper {
 		text-align: center;
 		margin-left: 0;
+	}
+}
+@media (max-width: 999px) {
+	.firstsectiondiv {
+		flex-direction: column;
+	}
+	.indiv-2 {
+		margin-top: 16px;
+	}
+	.about1 {
+		text-align: center;
+	}
+	.quality {
+		text-align: center;
+	}
+	.atuus {
+		text-align: center;
+	}
+	.veniam {
+		text-align: center;
+	}
+	.adipiscing {
+		text-align: center;
+	}
+	.button-wraper {
+		text-align: center;
+	}
+}
+@media (max-width: 330px){
+	.img1 {
+		flex-direction: column;
+	}
+	.imgimg {
+		width: 100%;
+		margin-top: 16px;
 	}
 }
