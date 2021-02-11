@@ -48,12 +48,19 @@
 		text-align: center;
 	}
 }
-@media (max-width: 330px){
+@media (max-width: 320px){
 	.img1 {
 		flex-direction: column;
+		margin-left: 13%
 	}
 	.imgimg {
-		width: 100%;
+		width: 75%;
 		margin-top: 16px;
+	}
+	.imgimg2 {
+		width: 80%;
+	}
+	.sasas {
+		text-align: center;
 	}
 }
