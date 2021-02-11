@@ -1,0 +1,24 @@
+@media (max-width: 760px) {
+	.burger-icon {
+		display: block;
+	}
+	nav {
+		display: none;
+	}
+	.text-first {
+		margin-right: 50%;
+	}
+	.upheader {
+		justify-content: flex-end;
+	}
+	.text-3-wraper {
+		text-align: center;
+		margin-left: 0;
+	}
+}
+@media (max-width: 480px) {
+	.text-3-wraper {
+		text-align: center;
+		margin-left: 0;
+	}
+}

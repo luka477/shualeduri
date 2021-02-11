@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@900&display=swap');
 .header-bg {
 	background-image: url(../img/header.jpg);
 	width: 100%;
@@ -8,10 +9,54 @@
 }
 .text-1 {
 	font-size: 14px;
+	color: white;
+	font-family: 'Poppins', sans-serif;
 }
 .upheader {
 	display: flex;
 	max-width: 1089px;
 	width: 100%;
 	justify-content: space-between;
+	padding-top: 30px;
+	padding-left: 139px;
+}
+.nav-ul {
+	display: flex;
+	font-family: 'Poppins', sans-serif;
+}
+.text-2 {
+	font-size: 12px;
+	color: white;
+}
+.li2 {
+	margin-left: 49px;
+}
+.li3 {
+	margin-left: 60px;
+}
+.li4 {
+	margin-left: 47px;
+}
+.li5 {
+	margin-left: 49px;
+}
+.li6 {
+	margin-left: 49px;
+}
+.fa-bars {
+	font-size: 30px;
+	color: white;
+}
+.burger-icon {
+	display: none;
+	margin-right: 30px;
+}
+.text-3 {
+	font-size: 42px;
+	color: #FFFFFF;
+	font-family: 'Poppins', sans-serif;
+}
+.text-3-wraper {
+	margin-top: 96px;
+	margin-left: 139px;
 }
